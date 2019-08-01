@@ -24,3 +24,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* Current Spot:
+- Now let’s create one more controller called Home in a corresponding new file app/controllers/home_controller.rb that will be responsible for just one index page, where we are going to perform all of our React magic.
+
+* Lessons learned:
+- API based applications upload to a strict structure /app/contollers/api/v1. Where the v1 is the version of the api. 
