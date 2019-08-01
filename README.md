@@ -10,6 +10,8 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
+- This is based on the tutorial found on medium.
+- https://medium.com/quick-code/simple-rails-crud-app-with-react-frontend-using-react-rails-gem-b708b89a9419
 
 * Database creation
 
