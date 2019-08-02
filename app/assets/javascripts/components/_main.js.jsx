@@ -4,8 +4,8 @@ const Main = (props) => {
         <div>
             <h1>
                 Fruits are great!
+                <AllFruits />
             </h1>
         </div>
     )
-
 }
