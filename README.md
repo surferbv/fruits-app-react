@@ -26,6 +26,9 @@ Things you may want to cover:
 * ...
 
 * Current Spot:
+- Adding a new fruit
 
 * Lessons learned:
+- To render items on a page you create components which can be thought of as classes of objects. These components appear to fetch data and us it to display. The data that is return is in this case json fromat.
+
 - API based applications upload to a strict structure /app/contollers/api/v1. Where the v1 is the version of the api. 
