@@ -1,11 +1,9 @@
 // Stateless presentational react component
 const Main = (props) => {
     return(
-        <div>
-            <h1>
-                Fruits are great!
-                <AllFruits />
-            </h1>
-        </div>
+      <div>
+        <h1>Fruits are great!</h1>
+        <Body />
+      </div>
     )
 }
