@@ -26,9 +26,11 @@ Things you may want to cover:
 * ...
 
 * Current Spot:
-    - We are rendering AllFruits component now from inside this higher level Body component and thus passing fruits to it as a prop. Check your browser to see if you followed everything correctly up to this point and our fruit list is displayed.
+    - Deleting a fruit
 
 * Lessons learned:
+    - Adding an item to the DOM is not as easy as it seems in javascript or react. Had to use fetch to perform this action. 
+
     - Components can be heierachical in this case a fruit body will handel all the states of the fruit? 
 
     - To render items on a page you create components which can be thought of as classes of objects. These components appear to fetch data and us it to display. The data that is return is in this case json fromat.
