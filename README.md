@@ -26,9 +26,11 @@ Things you may want to cover:
 * ...
 
 * Current Spot:
-    - Deleting a fruit
+    - Now let’s add Delete button to Fruit
 
 * Lessons learned:
+    - Seperating items into components is good :-)
+
     - Adding an item to the DOM is not as easy as it seems in javascript or react. Had to use fetch to perform this action. 
 
     - Components can be heierachical in this case a fruit body will handel all the states of the fruit? 
