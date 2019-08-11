@@ -26,9 +26,11 @@ Things you may want to cover:
 * ...
 
 * Current Spot:
-    - Now let’s add Delete button to Fruit
+    - Editing a fruit
 
 * Lessons learned:
+    - Adding delete functionality you first add it to the body then to the component fruit?
+
     - Seperating items into components is good :-)
 
     - Adding an item to the DOM is not as easy as it seems in javascript or react. Had to use fetch to perform this action. 
