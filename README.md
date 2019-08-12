@@ -26,9 +26,11 @@ Things you may want to cover:
 * ...
 
 * Current Spot:
-    - Editing a fruit
+    - Done
 
 * Lessons learned:
+    - Adding edit functionality react is very compersome to write with all the brackets and parens. Still don't understand relationship between the child and parent components" 
+
     - Adding delete functionality you first add it to the body then to the component fruit?
 
     - Seperating items into components is good :-)
